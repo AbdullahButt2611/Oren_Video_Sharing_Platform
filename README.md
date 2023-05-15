@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "#" width="300">
+  <img src = "/images/logo.png" width="120">
 </p>
 
 <h1 align="center">
@@ -65,29 +65,6 @@ Overall, the template provides a robust and comprehensive platform for users to 
 <br><br>
 <!-- ................................................................................................................................. -->
 
-
-
-### Video
-<p align="justify">
-You can exclusively watch the video on this project from the making to deploying on my     channel with the link given below<br>
-
-  [Video Link](# ) <br>
-
-  If you like my video then do Like the Video and share it with others.
-</p>
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
-
-### GUI
-![GUI for this Project](path)
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
 
 
 
